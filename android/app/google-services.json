@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798384030090",
+    "project_id": "cantwait22-23",
+    "storage_bucket": "cantwait22-23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798384030090:android:ba3013c5e350a0ac710873",
+        "android_client_info": {
+          "package_name": "com.justynaorlowska.cantwait28"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798384030090-0srijq6qif4362j05f6sopcdclo3t78v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPZ_GOqFDMjo5R8bJSDd1SObaXVjD247c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798384030090-0srijq6qif4362j05f6sopcdclo3t78v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
