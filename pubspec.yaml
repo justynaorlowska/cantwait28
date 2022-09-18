@@ -12,10 +12,11 @@ dependencies:
   bloc: ^8.1.0
   cloud_firestore: ^3.1.6
 
-  firebase_core: ^1.11.0
+  firebase_core: ^1.20.0
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.1
+  flutterfire_ui: ^0.4.3+9
   intl: ^0.17.0
 
 dev_dependencies:
